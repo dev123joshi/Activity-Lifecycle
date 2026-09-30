@@ -211,19 +211,7 @@ onResume()
 
 ---
 
-# Test Cases
 
-## Test Case 1 – Launch Activity
-
-### Test Objective
-
-To verify the lifecycle methods executed when the Activity is launched.
-
-### Action
-
-Open the application.
-
-### Expected Result
 
 The following lifecycle methods should be executed:
 
@@ -233,15 +221,8 @@ onStart()
 onResume()
 ```
 
-### Screenshot
 
-![Test Case 1](screenshots/testcase1.png)
 
-This test case also displays the student's **Name and USN**.
-
----
-
-## Test Case 2 – Background and Reopen Activity
 
 ### Test Objective
 
@@ -280,27 +261,6 @@ onStop()
 onDestroy()
 ```
 
-### Screenshot
-
-![Test Case 3](screenshots/testcase3.png)
-
----
-
-# Screenshots
-
-## Test Case 1
-
-![Test Case 1](screenshots/testcase1.png)
-
-## Test Case 2
-
-![Test Case 2](screenshots/testcase2.png)
-
-## Test Case 3
-
-![Test Case 3](screenshots/testcase3.png)
-
----
 
 # Learning Outcomes
 
